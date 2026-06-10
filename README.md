@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi, I'm Okikiola Arowolo.
+
+I am a secondary school student from Nigeria interested in:
+- Mathematics
+- Artificial Intelligence
+- Machine Learning
+- Python Programming
+
+Current Goal:
+Become an AI/ML Engineer.
 
 <!--
 **okikiolaarowolo/Okikiolaarowolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
