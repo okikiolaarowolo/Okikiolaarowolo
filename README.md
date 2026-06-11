@@ -1,31 +1,22 @@
-I have input this
-Hi, I'm Okikiola Arowolo 👋
-I am a secondary school student from Nigeria with a strong passion for Mathematics, Artificial Intelligence, and Computer Science.
-About Me
-Top senior secondary student in my school
-Founder of a Mathematics Club
-Representative at the Adewale Student Conference
-Aspiring AI/ML Engineer
-Currently learning Python programming
-Interests
-Mathematics
-Artificial Intelligence
-Machine Learning
-Data Science
-Software Development
-Problem Solving
-Currently Learning
+Hi, I'm Okikiola Arowolo
+Student interested in Physics, Mathematics, and Programming.
+Projects
+Python Calculator
+A simple calculator built with Python.
+Number Guessing Game
+A Python game that uses random numbers and user input.
+84-Day Personal Physics Project
+An independent project using Python and Google Colab to study physics concepts such as Coulomb's Law, measurement uncertainty, and data visualization.
+Skills
 Python
-Computer Science Fundamentals
-Machine Learning Basics
-Mathematical Problem Solving
-Goals
-Build impactful AI and Machine Learning projects
-Study Computer Science at university
-Become a professional AI/ML Engineer
-Use technology to solve real-world problems
-Connect With Me
-I am always learning, building, and improving my skills in Mathematics, Programming, and Artificial Intelligence. :::
+Physics Simulations
+Problem Solving
+Data Analysis
+Scientific Documentation
+Current Activities
+Preparing for NECO examinations
+Co-founding a Mathematics Club
+Representing my school at the Adewale Student Conference 
 <!--
 **okikiolaarowolo/Okikiolaarowolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
